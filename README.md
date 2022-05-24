@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alextocles.
-- 👀 I’m interested in Software Testing and macOS development.
+- 👀 I’m interested in Software Testing and macOS Development.
 - 🌱 I’m currently learning Software Testing.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different projects in order to learn as much as possible.
 - 📫 How to reach me alextocles1987@gmail.com.
 
 <!---
